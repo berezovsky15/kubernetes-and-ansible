@@ -1,5 +1,5 @@
 [kubernetes-master-nodes]
-server1 ansible_host=192.168.163.135
+server1 ansible_host=192.168.163.139
 
 [kubernetes-worker-nodes]
 server2 ansible_host=192.168.163.136
