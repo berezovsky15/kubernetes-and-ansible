@@ -1,8 +1,8 @@
 [kubernetes-master-nodes]
-server1 ansible_host=192.168.163.139
+server1 ansible_host=192.168.163.142
 
 [kubernetes-worker-nodes]
-server2 ansible_host=192.168.163.136
-server3 ansible_host=192.168.163.138
+server2 ansible_host=192.168.163.141
+server3 ansible_host=192.168.163.140
 
 
